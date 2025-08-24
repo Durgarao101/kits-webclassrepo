@@ -65,3 +65,29 @@ public class Application {
 }
 End of feature101
 main
+// Simple Java Program
+public class HelloWorld {
+    public static void main(String[] args) {
+        // Print a message
+        System.out.println("Hello, Java!");
+
+        // Variables
+        int a = 10, b = 20;
+        int sum = a + b;
+
+        // Print sum
+        System.out.println("Sum of " + a + " and " + b + " = " + sum);
+
+        // Conditional
+        if (sum > 15) {
+            System.out.println("Sum is greater than 15");
+        } else {
+            System.out.println("Sum is 15 or less");
+        }
+
+        // Loop
+        for (int i = 1; i <= 5; i++) {
+            System.out.println("Count: " + i);
+        }
+    }
+}
