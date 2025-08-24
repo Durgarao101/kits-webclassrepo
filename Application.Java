@@ -26,6 +26,7 @@ public class EvenOddCheck
         sc.close();
     }
 }
+ feature102
  #feature102 code changes by the Ayyappa on us usermodule on Octerber 2024
 public class Sample
  {
@@ -45,3 +46,22 @@ public class Sample
     }
 }
 end of the feature102.
+  
+#features101 changes by durga on Reports Module on oct 2024
+// Application.java
+public class Application {
+
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+        
+        // Example usage of another method
+        greet("Durga Rao");
+    }
+
+    // A sample method
+    public static void greet(String name) {
+        System.out.println("Welcome, " + name + "!");
+    }
+}
+End of feature101
+main
