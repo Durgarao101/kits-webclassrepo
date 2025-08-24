@@ -1,4 +1,5 @@
-public class EvenOddCheck {
+public class EvenOddCheck
+ {
     public static void main(String[] args) {
         // Create Scanner object for input
         Scanner sc = new Scanner(System.in);
@@ -25,6 +26,27 @@ public class EvenOddCheck {
         sc.close();
     }
 }
+ feature102
+ #feature102 code changes by the Ayyappa on us usermodule on Octerber 2024
+public class Sample
+ {
+
+    // main method - entry point of Java program
+    public static void main(String[] args) {
+        System.out.println("This is a sample Java file!");
+
+        // Example: calling another method
+        int sum = addNumbers(10, 20);
+        System.out.println("Sum of 10 and 20 is: " + sum);
+    }
+
+    // A method that adds two numbers
+    public static int addNumbers(int a, int b) {
+        return a + b;
+    }
+}
+end of the feature102.
+  
 #features101 changes by durga on Reports Module on oct 2024
 // Application.java
 public class Application {
@@ -42,3 +64,4 @@ public class Application {
     }
 }
 End of feature101
+main
