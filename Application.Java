@@ -1,4 +1,4 @@
-public class EvenOddCheck {
+public class EvenOddCheck {
     public static void main(String[] args) {
         // Create Scanner object for input
         Scanner sc = new Scanner(System.in);
