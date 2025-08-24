@@ -25,3 +25,20 @@ public class EvenOddCheck {
         sc.close();
     }
 }
+#features101 changes by durga on Reports Module on oct 2024
+// Application.java
+public class Application {
+
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+        
+        // Example usage of another method
+        greet("Durga Rao");
+    }
+
+    // A sample method
+    public static void greet(String name) {
+        System.out.println("Welcome, " + name + "!");
+    }
+}
+End of feature101
